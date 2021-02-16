@@ -1,11 +1,12 @@
 body {
+  font-family: 'Caveat', cursive;
   background-color: #fcd477;
-  margin-top: 300px;
+  margin-top: 250px;
+  font-size: 35px;
 }
 h1 {
   color: white;
   text-align: center;
-
 }
 h2 {
   color: white;
