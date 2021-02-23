@@ -1,0 +1,19 @@
+body {
+  font-family: 'Caveat', cursive;
+  font-size: 35px;
+  text-align: center;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+h2 {
+  color: black;
+  text-align: center;
+}
+p {
+  font-family: 'Caveat', cursive;
+  background-color: #d0f4f5;
+  font-size: 35px;
+  text-align: center
+}
