@@ -1,0 +1,28 @@
+header {
+  width: 75vw;
+  margin: 25px auto;
+}
+
+main {
+  width: 75vw;
+  margin: 25px auto;
+}
+
+.col {
+  width: 50%;
+  float: left;
+}
+
+@media screen and (max-width: 574px) {
+.col {
+  width: 50%;
+  float: left;
+  padding: 0 25px;
+}
+
+body {
+  background-color: lightblue;
+  margin: 50px;
+}
+
+ }
