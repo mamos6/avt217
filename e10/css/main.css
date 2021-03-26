@@ -1,0 +1,118 @@
+.one {
+width: 100px;
+height: 100px;
+background-color: black;
+float: left;
+}
+
+.two {
+  width: 100px;
+  height: 100px;
+  background-color: tomato;
+  float: left;
+}
+
+.board {
+  width: 800px;
+  display: flow-root;
+  margin: 100px auto;
+}
+
+.three {
+  width: 780px;
+  height: 100px;
+  background-color: tomato;
+  margin-left: 10px;
+  margin-bottom: 10px
+}
+
+.four {
+  width: 780px;
+  height: 25px;
+  background-color: tomato;
+  margin-left: 10px;
+  margin-bottom: 10px
+}
+
+.five {
+  width: 254px;
+  height: 800px;
+  background-color: tomato;
+  margin-left: 10px;
+  float: left
+}
+
+.six {
+  width: 254px;
+  height: 800px;
+  background-color: tomato;
+  margin-left: 10px;
+  float: left;
+}
+
+.seven {
+  width: 254px;
+  height: 800px;
+  background-color: tomato;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  float: left;
+}
+
+.eight {
+  width: 780px;
+  height: 100px;
+  background-color: tomato;
+  margin-left: 10px;
+  float: left;
+}
+
+.t1 {
+width: 1000px;
+height: 200px;
+background-color: red;
+margin-bottom: 150px;
+margin-left: 20px;
+}
+
+.t2 {
+width: 800px;
+height: 500px;
+background-color: red;
+margin-left: 20px;
+float: left;
+}
+
+.t3 {
+width: 190px;
+height: 250px;
+background-color: red;
+margin-left: 10px;
+float: left;
+}
+
+.t4 {
+width: 800px;
+height: 50px;
+background-color: red;
+margin-left: 20px;
+margin-top: 10px;
+float: left;
+}
+.t5 {
+width: 800px;
+height: 500px;
+margin-top: 150px;
+background-color: red;
+margin-left: 20px;
+float: left;
+}
+
+.t6 {
+width: 190px;
+height: 250px;
+background-color: red;
+margin-top: 150px;
+margin-left: 10px;
+float: left;
+}
